@@ -1,0 +1,30 @@
+Translate: 'House'|Casa|Auto|Perro|A
+Translate: 'Apple'|Manzana|Uva|Banana|A
+The color of the sky is...|Blue|Green|Red|A
+Translate: 'Car'|Auto|Arbol|Casa|A
+Translate: 'Book'|Libro|Revista|Cuaderno|A
+What is 'Monday'?|Lunes|Miércoles|Martes|A
+Translate: 'Dog'|Perro|Caballo|Gato|A
+'Three' means...|Tres|Arbol|Ahí|A
+Translate: 'School'|Escuela|Tienda|Hospital|A
+Translate: 'Chair'|Silla|Mesa|Puerta|A
+Past of 'go':|Gone|Went|Goed|B
+Synonym of 'happy':|Angry|Joyful|Tired|B
+Correct conjugation:|She don't|She doesn't|She not|B
+'The book is ___ the table'|in|on|at|B
+Plural of 'child':|childs|children|child's|B
+Present perfect: I ___ the movie.|Watched|Have watched|Had watched|B
+Phrasal verb: 'look ___' (investigate):|down|up|after|B
+Translate: 'Window'|Puerta|Ventana|Techo|B
+Meaning of 'Cold':|Caliente|Frío|Cálido|B
+'Fast' means:|Slow|Quick|Speed|B
+Opposite of 'arrive':|Go|Come|Leave|C
+'If I ___ rich, I would travel'|am|was|were|C
+Article: ___ university|a|an|the|C
+Translate: 'Pen'|Cuaderno|Lápiz|Pluma|C
+'Beautiful' is opposite to:|Pretty|Nice|Ugly|C
+Translate: 'Night'|Mañana|Tarde|Noche|C
+Translate: 'Small'|Grande|Mediano|Pequeño|C
+Meaning of 'Teacher':|Estudiante|Escuela|Profesor|C
+'Always' means:|A veces|Nunca|Siempre|C
+Read is the past of:|Ride|Red|Read|C

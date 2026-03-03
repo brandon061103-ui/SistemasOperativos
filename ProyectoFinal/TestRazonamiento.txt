@@ -1,0 +1,29 @@
+Si todos los perros son animales y algunos animales son gatos, ¿qué se puede concluir?|No se puede concluir nada|Todos los gatos son perros|Algunos perros son gatos|A
+Si un objeto flota en agua, ¿es más liviano que el agua?|Sí|No|No lo sé|A
+Una camisa cuesta $100 y tiene 25% de descuento. ¿Cuánto cuesta?|$75|$85|$80|A
+Si una bicicleta tiene dos ruedas, ¿cuántas tienen dos bicicletas?|4|2|3|A
+Si un año tiene 12 meses, ¿cuántos meses tienen 28 días?|Todos|Febrero|Uno|A
+Si 1=5, 2=25, 3=325, ¿entonces 4=?|4325|0|No se puede saber|A
+Si duplico un número y le sumo 4 da 10, ¿cuál era el número?|3|4|2|A
+Un reloj avanza 5 minutos cada hora. ¿Cuánto adelanta en 24h?|120 min|60 min|24 min|A
+Si un libro pesa 1kg más medio libro, ¿cuánto pesa?|2 kg|1.5 kg|1 kg|A
+Una persona camina 10 km hacia el norte y 10 km al este. ¿Está más lejos de su punto inicial?|Sí|No|Depende|A
+Si hoy es miércoles, ¿qué día será en 3 días?|Viernes||SábadoDomingo|B
+¿Cuántas letras tiene la palabra inteligente?|10|11|12|B
+¿Cuánto mide un ángulo recto?|180°|90°|60°|B
+Si todos los cuervos son negros, ¿puede haber uno blanco?|Sí, como excepción|No|Depende|B
+¿Cuántas sílabas tiene la palabra computadora?|4|5|3|B
+En una familia hay padres e hijos. Si hay 2 padres y 2 hijos, ¿cuántas personas puede haber como mínimo?|3|4|5|B
+¿Cuántos ceros hay en un millón?|5|6|7|B
+¿Cuál es el antónimo de “difícil?|Rápido|Fácil|Simple|B
+Si un cuadrado tiene 4 lados, ¿cuántos tiene un pentágono?|6|5|4|B
+¿Cuántos segundos hay en 3 minutos?|120|180|300|B
+¿Cuál no pertenece?:|Naranja|Pera|Zanahoria|C
+Si un coche viaja a 100 km/h, ¿cuánto recorre en 1.5 horas?|100 km|120 km|150 km|C
+Completa la secuencia: 2, 4, 8, 16, ?|36|30|32|C
+Si un niño tiene 3 caramelos y su amigo le da 2 más, ¿cuántos tiene?|4|6|5|C
+Si el doble de un número es 12, ¿cuál es la mitad del número?|6|4|3|C
+¿Cuál es la capital de Francia?|Madrid|Berlín|París|C
+Si 5x = 20, ¿cuánto es x?|2|3|4|C
+Completa la serie: L, M, N, O, ?|Q|R|P|C
+¿Cuál palabra es distinta?:|Perro|Gato|Zapato|C

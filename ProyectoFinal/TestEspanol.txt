@@ -1,0 +1,30 @@
+¿Palabra con tilde?:|Arbol|Casa|Perro|A
+Sinónimo de feliz|Contento|Triste|Enojado|A
+¿Antónimo de alto?|Bajo|Grande|Largo|A
+¿Cuál es un verbo?|Correr|Bonito|Rojo|A
+¿Sustantivo común?|Niño|Juan|México|A
+Verbo en futuro: Mañana yo ___|Cantaré|Cantaba|Canté|A
+¿Cuál es un pronombre?|Él|Rápido|Lápiz|A
+¿Interrogativo con tilde?|Qué|Que|que|A
+Palabra polisílaba:|Universidad|Sol|Mar|A
+Complemento directo: Veo la película|Película|Veo|La|A
+'Voy ___ tienda':|a|a la|al|B
+Plural de 'lápiz':|Lápizs|Lápices|Lápizes|B
+Verbo 'ser' en pretérito: yo ___|Fui|Era|Soy|B
+'Haber' impersonal: ___ muchos libros|A|Hay|Han|B
+Oración simple:|Juan canta y baila|Juan canta|Aunque Juan canta|B
+'De que' o 'de qué':|De que|De qué|Ninguno|B
+¿Palabra grave sin tilde?|camión|casa|árbol|B
+Adjetivo calificativo:|Perro|Bonito|Juan|B
+Verbo en infinitivo:|Como|Comer|Comió|B
+¿Palabra con diptongo?|Sol|Cielo|Luna|B
+¿Cuál es un adjetivo?|Caminar|Ladrar|Pequeño|C
+¿Palabra aguda?|Mesa|Árbol|Canción|C
+¿Cuál es una oración?|Perro.|Ladra.|El perro ladra.|C
+¿Palabra con hiato?|Cielo|Tiempo|Poeta|C
+Sinónimo de 'molesto'|Triste|Contento|Enojado|C
+Género de 'árbol':|Ninguno|F|M|C
+Acento en 'sábado':|Grave|Aguda|Esdrújula|C
+Figura literaria en 'el murmullo de las olas':|Metáfora|Comparación|Onomatopeya|C
+¿Palabra sobreesdrújula?|Café|Silla|Rápidamente|C
+Modo subjuntivo: "Ojalá que tú ___"|Vienes|Vendrás|Vengas|C

@@ -1,0 +1,30 @@
+¿Cuánto es el área de un cuadrado de lado 4?|16|8|12|A
+¿Cuánto es 7 x 6?|42|36|48|A
+Resuelve: (3 + 2) x 2|10|7|12|A
+Resuelve: 9 + 1 x 3|12|30|18|A
+¿Cuánto es 100 ÷ 10?|10|20|5|A
+¿El doble de 8 es?:|16|14|18|A
+¿Cuánto es 2x + 5 = 15?|5|10|7.5|A
+¿Cuánto es 2^3 × 2²?|32|64|16|A
+Ecuación de recta entre (2,3) y (4,7)|y=2x-1|y=x+1|y=3x-3|A
+Factoriza x²-5x+6:|(x-2)(x-3)|(x-1)(x-6)|(x+2)(x+3)|A
+Resuelve: 12 / 4 = ?|2|3|4|B
+¿Cuánto es 15 - 9?|5|6|7|B
+Raíz cuadrada de 49 es:|6|7|8|B
+¿Cuánto es el 15% de 200?|15|30|20|B
+Area de círculo con r=3|6pi|9pi|3pi|B
+log10(100) = ?|1|2|10|B
+¿Cuál es la integral de (2x dx) = ?|x²|x²+C|2x²|B
+¿Cuánto es el perímetro de un triángulo de lados 3, 4 y 5?|10|12|14|B
+Derivada de x²|x|2x|x²|B
+5! (factorial de 5) = ?|60|120|100|B
+¿Cuánto es (x^2-4)/(x-2)?|x²+2|x-2|x+2|C
+Probabilidad de 2 caras en 2 monedas|3/4|1/2|1/4|C
+MCM de 6 y 8|12|48|24|C
+Media de 5, 10 y 15|15|5|10|C
+Convertir 0.75 a fracción|2/3|1/2|3/4|C
+Valor de x si 2x = 18|10|8|9|C
+¿Cuánto es (5² - 3²)?|34|25|16|C
+Si x=3, evalúa x²+2x+1|10|18|16|C
+Area de un rectángulo de 5x3|20|10|15|C
+¿Cuánto es 7^2?|36|42|49|C

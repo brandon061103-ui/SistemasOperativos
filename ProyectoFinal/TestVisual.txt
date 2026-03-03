@@ -1,0 +1,29 @@
+¿Qué símbolo completa la serie? *+* *+* *+?|*|+|#|A
+¿Qué símbolo falta? +*+ +*+ +?+|*|+|#|A
+Completa la serie: ##@@ ##@@ ##?|@@|##|++|A
+¿Cuál símbolo no pertenece? @ @ #|#|@|*|A
+Completa la secuencia: +++--- +++--- +++?|---|+++|///|A
+¿Qué símbolo es el siguiente? **++ **++ **?|++|**|--|A
+Sigue la secuencia: -*- -*- -*- ?|-*-|/-|+|A
+Identifica la figura que no encaja: **##**##**@#|@|*|#|A
+¿Qué figura sigue? //\\ //\\ //?|\\|/|//|A
+¿Cuál es la figura diferente? -*- /*- -*-|/*-|-*-|+*+|A
+¿Cuál rompe el patrón? ***+***|*|+|#|B
+Encuentra el que continúa: -*- -*- -*?|*|-|+|B
+¿Cuál no pertenece al grupo? @@@@#@@@@|@|#|*|B
+Completa el patrón: ++-- ++-- ??--|--|++|##|B
+¿Qué símbolo falta? ==++ ==++ ==?|==|++|##|B
+Identifica el anómalo: ###@###|#|@|*|B
+¿Qué figura sigue? ##-- ##-- ##?|##|--|==|B
+Completa la secuencia: ++--++ --++-- ++??++|++|--|==|B
+¿Cuál sobra? **++## **++## **++@@|##|@@|++|B
+Completa la serie: @@-- @@-- @@?|@@|--|##|B
+Encuentra el símbolo que falta: */* */* *?*|+|*|/|C
+¿Cuál símbolo no encaja? /-\ /-\ /#\|\|/|#|C
+Sigue la serie: **--** --**-- **??**|++|**|--|C
+¿Qué figura completa la secuencia? +*+ +*+ +?+|#|+|*|C
+¿Qué símbolo continúa la secuencia? --** --** --?|++|--|**|C
+¿Cuál rompe el patrón? /\/\ /\/\ /#/\|\|/|#|C
+¿Cuál símbolo es diferente a los otros?|#|#|@|C
+¿Cuál símbolo es diferente a los otros?|+|-|#|C
+Sigue la serie: //--\\ //--\\ //??\\|++|**|--|C
